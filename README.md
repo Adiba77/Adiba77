@@ -55,7 +55,7 @@ Major: Information Systems
 
 ## 📄 CV
 
-[**View / Download My CV**](./assets/Adiba_Tanzila_CV.docx)
+[**View / Download My CV**](./Adiba_Tanzila_CV.docx)
 
 ## 📫 Contact
 
@@ -66,5 +66,4 @@ Major: Information Systems
 
 ---
 
-> This repository is designed to be used as a GitHub profile README.  
-> Create a repository named **Adiba77** under the GitHub account **Adiba77**, place this `README.md` in the repository root, and keep the CV inside the `assets` folder.
+
